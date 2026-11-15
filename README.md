@@ -5,6 +5,17 @@ generado a partir de <https://ados.sergas.gal/cartafol/proximos-desprazamentos>.
 
 Es la "API" que consume la app `ADOSMontecastelo`. No es un servicio oficial.
 
+## URL de la API
+
+Publicado con GitHub Pages (rama `main`, carpeta raíz):
+
+```
+https://josealfonsofpfomento.github.io/ados-desplazamientos/desplazamientos.json
+```
+
+Para Retrofit: `baseUrl = "https://josealfonsofpfomento.github.io/ados-desplazamientos/"` y
+`@GET("desplazamientos.json")`. Tras un commit en `main`, Pages tarda uno o dos minutos en reflejar el cambio.
+
 ## Actualizar los datos
 
 - **En GitHub:** pestaña *Actions* → *Actualizar desplazamientos* → *Run workflow*. Solo hace commit si hay cambios.
