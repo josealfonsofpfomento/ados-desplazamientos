@@ -31,7 +31,17 @@ Si la web cambia de estructura el script falla y deja el JSON anterior intacto.
 | `desplazamientos[].id` | `fecha-concello[-n]`, estable |
 | `fecha` | `AAAA-MM-DD` |
 | `area` | Área sanitaria (zona para los avisos) |
-| `concello`, `lugar`, `ubicacion` | Dónde está la unidad móvil |
+| `concello`, `lugar`, `ubicacion` | Dónde está la unidad móvil. Los textos se normalizan (sin "Unidade móbil", en formato título) |
+| `lat`, `lon` | Coordenadas del **centro del concello** (OpenStreetMap), no del punto exacto. `null` si no se encontraron |
 | `horarios` | Lista de tramos `{desde, hasta}` (`HH:mm`); puede haber dos (mañana y tarde) |
 | `horarioPorDeterminar` | `true` si la web dice "Horario a determinar" (`horarios` vacío) |
 | `provisional` | `true` si la web marca el lugar como provisional |
+
+## Coordenadas
+
+El script geocodifica cada concello con Nominatim (OpenStreetMap) y guarda el resultado en `data/concellos.json`,
+que actúa de caché: solo se consultan los concellos nuevos (1 petición por segundo, como exige su política de uso).
+La precisión es de concello. Para llegar al punto exacto, la app abre Google Maps con la búsqueda
+`"<lugar>, <concello>, Galicia"`.
+
+Datos de mapas © colaboradores de OpenStreetMap (ODbL).

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T20:49:29Z",
+  "actualizado": "2026-11-16T13:08:08Z",
   "fuente": "https://ados.sergas.gal/cartafol/proximos-desprazamentos",
   "desplazamientos": [
     {
@@ -7,8 +7,8 @@
       "fecha": "2026-11-12",
       "area": "A Coruña e CEE",
       "concello": "Zas",
-      "lugar": "ZAS",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO SOCIAL",
+      "lugar": "Zas",
+      "ubicacion": "Diante do Centro Social",
       "horarios": [
         {
           "desde": "10:00",
@@ -16,15 +16,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.08598,
+      "lon": -8.91067
     },
     {
       "id": "2026-11-12-zas-2",
       "fecha": "2026-11-12",
       "area": "A Coruña e CEE",
       "concello": "Zas",
-      "lugar": "BAIO (ZAS)",
-      "ubicacion": "UNIDADE MÓBIL NO CRUZAMENTO DA ESTRADA A LAXE",
+      "lugar": "Baio (Zas)",
+      "ubicacion": "No Cruzamento da Estrada a Laxe",
       "horarios": [
         {
           "desde": "16:15",
@@ -32,15 +34,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.08598,
+      "lon": -8.91067
     },
     {
       "id": "2026-11-12-lugo",
       "fecha": "2026-11-12",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "CAMPUS LUGO 4",
-      "ubicacion": "UM diante da explanada da Facultade de Administración e Dirección de empresas",
+      "lugar": "Campus Lugo 4",
+      "ubicacion": "Diante da explanada da Facultade de Administración e Dirección de empresas",
       "horarios": [
         {
           "desde": "09:30",
@@ -48,15 +52,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-12-ourense",
       "fecha": "2026-11-12",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "Bº PRAZA DA MARIÑA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DE MARIÑA ( AVDA SANTIAGO Nº 30)",
+      "lugar": "Bº Praza da Mariña",
+      "ubicacion": "Na Praza de Mariña ( Avda Santiago Nº 30)",
       "horarios": [
         {
           "desde": "15:30",
@@ -64,15 +70,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-12-rios",
       "fecha": "2026-11-12",
       "area": "Ourense-Verín-O Barco",
       "concello": "Riós",
-      "lugar": "O RIÓS",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO CONCELLO",
+      "lugar": "O Riós",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:30",
@@ -80,15 +88,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 41.97541,
+      "lon": -7.26658
     },
     {
       "id": "2026-11-12-vilardevos",
       "fecha": "2026-11-12",
       "area": "Ourense-Verín-O Barco",
       "concello": "Vilardevós",
-      "lugar": "VILARDEVOS",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO DE SAÚDE",
+      "lugar": "Vilardevos",
+      "ubicacion": "Diante do Centro de Saúde",
       "horarios": [
         {
           "desde": "12:30",
@@ -96,15 +106,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 41.91637,
+      "lon": -7.2949
     },
     {
       "id": "2026-11-12-pontevedra",
       "fecha": "2026-11-12",
       "area": "Pontevedra e O Salnés",
       "concello": "Pontevedra",
-      "lugar": "I.E.S. FREI MARTIN SARMIENTO",
-      "ubicacion": "UNIDADE MOBIL NO APARCAMENTO DIANTE DO INSTITUTO",
+      "lugar": "I.e.s. Frei Martin Sarmiento",
+      "ubicacion": "No Aparcamento diante do Instituto",
       "horarios": [
         {
           "desde": "09:30",
@@ -116,15 +128,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.42806,
+      "lon": -8.60414
     },
     {
       "id": "2026-11-12-padron",
       "fecha": "2026-11-12",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Padrón",
-      "lugar": "PADRON",
-      "ubicacion": "UNIDADE MÓBIL DIANTE \nDA PRAZA DE ABASTOS \n(AO CARÓN DO PASEO DO ESPOLÓN)",
+      "lugar": "Padron",
+      "ubicacion": "Diante da Praza de Abastos (ao carón do Paseo do Espolón)",
       "horarios": [
         {
           "desde": "09:45",
@@ -136,15 +150,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.75977,
+      "lon": -8.62364
     },
     {
       "id": "2026-11-12-santiago-de-compostela",
       "fecha": "2026-11-12",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "CAMPUS SANTIAGO - VIDA 5",
-      "ubicacion": "UM diante da Facultade de Químicas",
+      "lugar": "Campus Santiago - Vida 5",
+      "ubicacion": "Diante da Facultade de Químicas",
       "horarios": [
         {
           "desde": "09:30",
@@ -152,15 +168,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-12-covelo",
       "fecha": "2026-11-12",
       "area": "Vigo",
       "concello": "Covelo",
-      "lugar": "COVELO",
-      "ubicacion": "UNIDADE MOBIL AO CARÓN DO CONCELLO",
+      "lugar": "Covelo",
+      "ubicacion": "Ao carón do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -168,15 +186,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.26839,
+      "lon": -8.35274
     },
     {
       "id": "2026-11-12-mondariz",
       "fecha": "2026-11-12",
       "area": "Vigo",
       "concello": "Mondariz",
-      "lugar": "MONDARIZ",
-      "ubicacion": "UM en Rúa Miguel Ángel Blanco s/n (diante do Centro Social)",
+      "lugar": "Mondariz",
+      "ubicacion": "En Rúa Miguel Ángel Blanco s/n (diante do Centro Social)",
       "horarios": [
         {
           "desde": "10:00",
@@ -184,15 +204,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.23905,
+      "lon": -8.45323
     },
     {
       "id": "2026-11-12-vigo",
       "fecha": "2026-11-12",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "Bº TEIS",
-      "ubicacion": "UNIDADE MOBIL EN SANXURXO BADIA Nº 200 ( AO CARON  DA PARADA DO BUS)",
+      "lugar": "Bº Teis",
+      "ubicacion": "En Sanxurxo Badia Nº 200 ( ao Caron da Parada do Bus)",
       "horarios": [
         {
           "desde": "15:30",
@@ -200,15 +222,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-13-arteixo",
       "fecha": "2026-11-13",
       "area": "A Coruña e CEE",
       "concello": "Arteixo",
-      "lugar": "ARTEIXO",
-      "ubicacion": "UNIDADE MÓBIL NA ENTRADA DA RUA PEONIL",
+      "lugar": "Arteixo",
+      "ubicacion": "Na Entrada da Rua Peonil",
       "horarios": [
         {
           "desde": "10:00",
@@ -220,15 +244,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.30458,
+      "lon": -8.50791
     },
     {
       "id": "2026-11-13-as-pontes-de-garcia-rodriguez",
       "fecha": "2026-11-13",
       "area": "Ferrol",
       "concello": "As Pontes de García Rodríguez",
-      "lugar": "AS PONTES",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CARMEN",
+      "lugar": "As Pontes",
+      "ubicacion": "Na Praza do Carmen",
       "horarios": [
         {
           "desde": "16:00",
@@ -236,15 +262,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.47029,
+      "lon": -7.87709
     },
     {
       "id": "2026-11-13-monforte-de-lemos",
       "fecha": "2026-11-13",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Monforte de Lemos",
-      "lugar": "MONFORTE",
-      "ubicacion": "UNIDADE MÓBIL FRONTE AO CAMPO DA COMPAÑIA",
+      "lugar": "Monforte",
+      "ubicacion": "Fronte ao Campo da Compañia",
       "horarios": [
         {
           "desde": "16:00",
@@ -252,15 +280,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.51055,
+      "lon": -7.48752
     },
     {
       "id": "2026-11-13-marin",
       "fecha": "2026-11-13",
       "area": "Pontevedra e O Salnés",
       "concello": "Marín",
-      "lugar": "MARIN",
-      "ubicacion": "UNIDADE MOBIL NOS XARDINS DA ALAMEDA",
+      "lugar": "Marin",
+      "ubicacion": "Nos Xardins da Alameda",
       "horarios": [
         {
           "desde": "10:00",
@@ -272,15 +302,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.35855,
+      "lon": -8.7115
     },
     {
       "id": "2026-11-13-lalin",
       "fecha": "2026-11-13",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Lalín",
-      "lugar": "LALIN",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA CARACAS (AO CARÓN DO CONCELLO)",
+      "lugar": "Lalin",
+      "ubicacion": "Na Rúa Caracas (ao carón do Concello)",
       "horarios": [
         {
           "desde": "10:00",
@@ -292,15 +324,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.65751,
+      "lon": -8.09431
     },
     {
       "id": "2026-11-13-noia",
       "fecha": "2026-11-13",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Noia",
-      "lugar": "NOIA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLLO",
+      "lugar": "Noia",
+      "ubicacion": "Diante do Concelllo",
       "horarios": [
         {
           "desde": "10:00",
@@ -312,15 +346,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.79772,
+      "lon": -8.8729
     },
     {
       "id": "2026-11-13-tordoia",
       "fecha": "2026-11-13",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Tordoia",
-      "lugar": "TORDOIA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Tordoia",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -328,15 +364,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.08717,
+      "lon": -8.54713
     },
     {
       "id": "2026-11-13-redondela",
       "fecha": "2026-11-13",
       "area": "Vigo",
       "concello": "Redondela",
-      "lugar": "REDONDELA",
-      "ubicacion": "UNIDADE MOVIL NO LATERAL DO CONCELLO",
+      "lugar": "Redondela",
+      "ubicacion": "No Lateral do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -348,15 +386,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.27991,
+      "lon": -8.61634
     },
     {
       "id": "2026-11-13-vigo",
       "fecha": "2026-11-13",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "Bº BALAIDOS",
-      "ubicacion": "UNIDADE MÓBIL A CARÓN DA ASOCIACIÓN DE VECINOS \"VAL DO FRAGOSO\"",
+      "lugar": "Bº Balaidos",
+      "ubicacion": "A carón da Asociación de Vecinos \"Val do Fragoso\"",
       "horarios": [
         {
           "desde": "15:30",
@@ -364,15 +404,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-14-arteixo",
       "fecha": "2026-11-14",
       "area": "A Coruña e CEE",
       "concello": "Arteixo",
-      "lugar": "ARTEIXO",
-      "ubicacion": "UNIDADE MÓBIL NA ENTRADA DA RUA PEONIL",
+      "lugar": "Arteixo",
+      "ubicacion": "Na Entrada da Rua Peonil",
       "horarios": [
         {
           "desde": "10:00",
@@ -380,15 +422,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.30458,
+      "lon": -8.50791
     },
     {
       "id": "2026-11-14-marin",
       "fecha": "2026-11-14",
       "area": "Pontevedra e O Salnés",
       "concello": "Marín",
-      "lugar": "MARIN",
-      "ubicacion": "UNIDADE MOBIL NOS XARDINS DA ALAMEDA",
+      "lugar": "Marin",
+      "ubicacion": "Nos Xardins da Alameda",
       "horarios": [
         {
           "desde": "10:00",
@@ -396,15 +440,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.35855,
+      "lon": -8.7115
     },
     {
       "id": "2026-11-14-lalin",
       "fecha": "2026-11-14",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Lalín",
-      "lugar": "LALIN",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA CARACAS (AO CARÓN DO CONCELLO)",
+      "lugar": "Lalin",
+      "ubicacion": "Na Rúa Caracas (ao carón do Concello)",
       "horarios": [
         {
           "desde": "10:00",
@@ -412,15 +458,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.65751,
+      "lon": -8.09431
     },
     {
       "id": "2026-11-14-noia",
       "fecha": "2026-11-14",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Noia",
-      "lugar": "NOIA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLLO",
+      "lugar": "Noia",
+      "ubicacion": "Diante do Concelllo",
       "horarios": [
         {
           "desde": "10:00",
@@ -428,15 +476,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.79772,
+      "lon": -8.8729
     },
     {
       "id": "2026-11-14-redondela",
       "fecha": "2026-11-14",
       "area": "Vigo",
       "concello": "Redondela",
-      "lugar": "REDONDELA",
-      "ubicacion": "UNIDADE MOVIL NO LATERAL DO CONCELLO",
+      "lugar": "Redondela",
+      "ubicacion": "No Lateral do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -444,15 +494,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.27991,
+      "lon": -8.61634
     },
     {
       "id": "2026-11-16-cambre",
       "fecha": "2026-11-16",
       "area": "A Coruña e CEE",
       "concello": "Cambre",
-      "lugar": "CAMBRE",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Cambre",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "09:45",
@@ -464,15 +516,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.28158,
+      "lon": -8.33383
     },
     {
       "id": "2026-11-16-sobrado",
       "fecha": "2026-11-16",
       "area": "A Coruña e CEE",
       "concello": "Sobrado",
-      "lugar": "SOBRADO",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO PORTAL",
+      "lugar": "Sobrado",
+      "ubicacion": "Na Praza do Portal",
       "horarios": [
         {
           "desde": "16:15",
@@ -480,15 +534,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.05855,
+      "lon": -7.98905
     },
     {
       "id": "2026-11-16-ferrol",
       "fecha": "2026-11-16",
       "area": "Ferrol",
       "concello": "Ferrol",
-      "lugar": "Bº PRAZA DE ESPAÑA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DE ESPAÑA",
+      "lugar": "Bº Praza de España",
+      "ubicacion": "Na Praza de España",
       "horarios": [
         {
           "desde": "09:30",
@@ -500,15 +556,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.51131,
+      "lon": -8.26248
     },
     {
       "id": "2026-11-16-ourense",
       "fecha": "2026-11-16",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "Bº O COUTO",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA VILA REAL, Nº 6",
+      "lugar": "Bº o Couto",
+      "ubicacion": "Na Rúa Vila Real, Nº 6",
       "horarios": [
         {
           "desde": "10:00",
@@ -520,15 +578,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-16-o-grove",
       "fecha": "2026-11-16",
       "area": "Pontevedra e O Salnés",
       "concello": "O Grove",
-      "lugar": "O GROVE",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CORGO \n(DIANTE DO CONCELLO)",
+      "lugar": "O Grove",
+      "ubicacion": "Na Praza do Corgo (diante do Concello)",
       "horarios": [
         {
           "desde": "10:00",
@@ -540,15 +600,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.47014,
+      "lon": -8.89618
     },
     {
       "id": "2026-11-16-muros",
       "fecha": "2026-11-16",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Muros",
-      "lugar": "ESTEIRO",
-      "ubicacion": "UNIDADE MÓBIL NA ALAMEDA \n(FRONTE O CENTRO MEDICO)",
+      "lugar": "Esteiro",
+      "ubicacion": "Na Alameda (Fronte o Centro Medico)",
       "horarios": [
         {
           "desde": "16:00",
@@ -556,15 +618,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.79908,
+      "lon": -9.05475
     },
     {
       "id": "2026-11-16-santa-comba",
       "fecha": "2026-11-16",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santa Comba",
-      "lugar": "SANTA COMBA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO DE CULTURA",
+      "lugar": "Santa Comba",
+      "ubicacion": "Diante do Centro de Cultura",
       "horarios": [
         {
           "desde": "10:00",
@@ -576,15 +640,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.03829,
+      "lon": -8.81435
     },
     {
       "id": "2026-11-16-o-rosal",
       "fecha": "2026-11-16",
       "area": "Vigo",
       "concello": "O Rosal",
-      "lugar": "O ROSAL",
-      "ubicacion": "UNIDADE MÓVIL NA RÚA RAMÓN FRANCO 4 (FRONTE A ABANCA)",
+      "lugar": "O Rosal",
+      "ubicacion": "Na Rúa Ramón Franco 4 (Fronte a Abanca)",
       "horarios": [
         {
           "desde": "16:00",
@@ -592,15 +658,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 41.93672,
+      "lon": -8.82568
     },
     {
       "id": "2026-11-16-tomino",
       "fecha": "2026-11-16",
       "area": "Vigo",
       "concello": "Tomiño",
-      "lugar": "TOMIÑO",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO SEIXO",
+      "lugar": "Tomiño",
+      "ubicacion": "Na Praza do Seixo",
       "horarios": [
         {
           "desde": "10:00",
@@ -612,15 +680,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 41.99601,
+      "lon": -8.73141
     },
     {
       "id": "2026-11-17-betanzos",
       "fecha": "2026-11-17",
       "area": "A Coruña e CEE",
       "concello": "Betanzos",
-      "lugar": "BETANZOS",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA IRMÁNS GARCÍA NAVEIRA",
+      "lugar": "Betanzos",
+      "ubicacion": "Na Praza Irmáns García Naveira",
       "horarios": [
         {
           "desde": "16:00",
@@ -628,15 +698,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.27574,
+      "lon": -8.23264
     },
     {
       "id": "2026-11-17-carral",
       "fecha": "2026-11-17",
       "area": "A Coruña e CEE",
       "concello": "Carral",
-      "lugar": "CARRAL",
-      "ubicacion": "UNIDADE MÓBIL A CARÓN  DO CAMPO DA FEIRA",
+      "lugar": "Carral",
+      "ubicacion": "A carón do Campo da Feira",
       "horarios": [
         {
           "desde": "16:00",
@@ -644,15 +716,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.20728,
+      "lon": -8.37584
     },
     {
       "id": "2026-11-17-lugo",
       "fecha": "2026-11-17",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "CAMPUS LUGO 5",
-      "ubicacion": "UM no aparcadoiro ao carón da entrada principal da Facultade de Formación do Profesorado",
+      "lugar": "Campus Lugo 5",
+      "ubicacion": "No aparcadoiro ao carón da entrada principal da Facultade de Formación do Profesorado",
       "horarios": [
         {
           "desde": "09:30",
@@ -664,15 +738,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-17-bande",
       "fecha": "2026-11-17",
       "area": "Ourense-Verín-O Barco",
       "concello": "Bande",
-      "lugar": "BANDE",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO CONCELLO",
+      "lugar": "Bande",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:30",
@@ -680,15 +756,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.02261,
+      "lon": -7.94778
     },
     {
       "id": "2026-11-17-lobios",
       "fecha": "2026-11-17",
       "area": "Ourense-Verín-O Barco",
       "concello": "Lobios",
-      "lugar": "LOBIOS",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO CONCELLO",
+      "lugar": "Lobios",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "19:00",
@@ -696,15 +774,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 41.90391,
+      "lon": -8.05998
     },
     {
       "id": "2026-11-17-ourense",
       "fecha": "2026-11-17",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "Bº RUA DO PASEO - OURENSE",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA DO PASEO, N.º 37",
+      "lugar": "Bº Rua do Paseo - Ourense",
+      "ubicacion": "Na Rúa do Paseo, n.º 37",
       "horarios": [
         {
           "desde": "09:30",
@@ -712,15 +792,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-17-meano",
       "fecha": "2026-11-17",
       "area": "Pontevedra e O Salnés",
       "concello": "Meaño",
-      "lugar": "MEAÑO",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Meaño",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -728,15 +810,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.45296,
+      "lon": -8.79156
     },
     {
       "id": "2026-11-17-pontevedra",
       "fecha": "2026-11-17",
       "area": "Pontevedra e O Salnés",
       "concello": "Pontevedra",
-      "lugar": "CFEA LOURIZÁN",
-      "ubicacion": "UNIDADE MOBIL NO RECINTO DA ESCOLA",
+      "lugar": "Cfea Lourizán",
+      "ubicacion": "No Recinto da Escola",
       "horarios": [
         {
           "desde": "09:30",
@@ -744,15 +828,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.42806,
+      "lon": -8.60414
     },
     {
       "id": "2026-11-17-soutomaior",
       "fecha": "2026-11-17",
       "area": "Pontevedra e O Salnés",
       "concello": "Soutomaior",
-      "lugar": "ARCADE",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DE ABASTOS",
+      "lugar": "Arcade",
+      "ubicacion": "Na Praza de Abastos",
       "horarios": [
         {
           "desde": "10:00",
@@ -764,15 +850,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.33863,
+      "lon": -8.57263
     },
     {
       "id": "2026-11-17-oroso",
       "fecha": "2026-11-17",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Oroso",
-      "lugar": "SIGÜEIRO (OROSO)",
-      "ubicacion": "UNIDADE MÓBIL DETRÁS DO ANTIGO CENTRO DE SAÚDE (AGORA CENTRO CÍVICO E POLICÍA LOCAL)",
+      "lugar": "Sigüeiro (Oroso)",
+      "ubicacion": "Detrás do Antigo Centro de Saúde (Agora Centro Cívico e Policía Local)",
       "horarios": [
         {
           "desde": "16:00",
@@ -780,15 +868,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.00009,
+      "lon": -8.37991
     },
     {
       "id": "2026-11-17-santiago-de-compostela",
       "fecha": "2026-11-17",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "CPFP FESAN",
-      "ubicacion": "UNIDADE MÓBIL NO APARCAMENTO PRIVADO DO CENTRO",
+      "lugar": "Cpfp Fesan",
+      "ubicacion": "No Aparcamento Privado do Centro",
       "horarios": [
         {
           "desde": "09:30",
@@ -796,15 +886,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-17-touro",
       "fecha": "2026-11-17",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Touro",
-      "lugar": "TOURO",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Touro",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -812,7 +904,9 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.86069,
+      "lon": -8.30979
     },
     {
       "id": "2026-11-17-vigo",
@@ -820,7 +914,7 @@
       "area": "Vigo",
       "concello": "Vigo",
       "lugar": "Colegio Montecastelo",
-      "ubicacion": "UNIDADE MOVIL DENTRO DO RECINTO DO COLEXIO",
+      "ubicacion": "Dentro do Recinto do Colexio",
       "horarios": [
         {
           "desde": "09:30",
@@ -828,15 +922,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-18-camarinas",
       "fecha": "2026-11-18",
       "area": "A Coruña e CEE",
       "concello": "Camariñas",
-      "lugar": "CAMARIÑAS",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA CONFRARÍA\n(NO ACCESO Á LONXA)",
+      "lugar": "Camariñas",
+      "ubicacion": "Diante da Confraría (no Acceso á Lonxa)",
       "horarios": [
         {
           "desde": "16:30",
@@ -844,15 +940,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.1602,
+      "lon": -9.14475
     },
     {
       "id": "2026-11-18-mugardos",
       "fecha": "2026-11-18",
       "area": "Ferrol",
       "concello": "Mugardos",
-      "lugar": "MUGARDOS",
-      "ubicacion": "UNIDADE MOBIL DIANTE DA BIBLIOTECA MUNICIPAL",
+      "lugar": "Mugardos",
+      "ubicacion": "Diante da Biblioteca Municipal",
       "horarios": [
         {
           "desde": "16:00",
@@ -860,15 +958,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.44929,
+      "lon": -8.23369
     },
     {
       "id": "2026-11-18-lugo",
       "fecha": "2026-11-18",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "Bº PRAZA MAIOR",
-      "ubicacion": "UNIDADE MOBIL NO FONDO DA PRAZA MAIOR",
+      "lugar": "Bº Praza Maior",
+      "ubicacion": "No Fondo da Praza Maior",
       "horarios": [
         {
           "desde": "09:30",
@@ -880,15 +980,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-18-celanova",
       "fecha": "2026-11-18",
       "area": "Ourense-Verín-O Barco",
       "concello": "Celanova",
-      "lugar": "CELANOVA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA MAIOR",
+      "lugar": "Celanova",
+      "ubicacion": "Na Praza Maior",
       "horarios": [
         {
           "desde": "10:00",
@@ -900,15 +1002,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.16644,
+      "lon": -7.96114
     },
     {
       "id": "2026-11-18-pontevedra",
       "fecha": "2026-11-18",
       "area": "Pontevedra e O Salnés",
       "concello": "Pontevedra",
-      "lugar": "ZONA DA FERRARÍA",
-      "ubicacion": "UNIDADE MOBIL NA ALAMEDA  DIANTE DO CAFETIN",
+      "lugar": "Zona da Ferraría",
+      "ubicacion": "Na Alameda diante do Cafetin",
       "horarios": [
         {
           "desde": "09:30",
@@ -920,15 +1024,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.42806,
+      "lon": -8.60414
     },
     {
       "id": "2026-11-18-negreira",
       "fecha": "2026-11-18",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Negreira",
-      "lugar": "NEGREIRA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO DE SAÚDE",
+      "lugar": "Negreira",
+      "ubicacion": "Diante do Centro de Saúde",
       "horarios": [
         {
           "desde": "16:00",
@@ -936,15 +1042,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.9077,
+      "lon": -8.77849
     },
     {
       "id": "2026-11-18-santiago-de-compostela",
       "fecha": "2026-11-18",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "ALAMEDA (SANTIAGO)",
-      "ubicacion": "UNIDADE MÓBIL NA ENTRADA DO PASEO CENTRAL DA ALAMEDA",
+      "lugar": "Alameda (Santiago)",
+      "ubicacion": "Na Entrada do Paseo Central da Alameda",
       "horarios": [
         {
           "desde": "09:30",
@@ -956,15 +1064,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-18-moana",
       "fecha": "2026-11-18",
       "area": "Vigo",
       "concello": "Moaña",
-      "lugar": "MOAÑA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA CASA DO MAR (ANTIGO CENTRO DE SAÚDE)",
+      "lugar": "Moaña",
+      "ubicacion": "Diante da Casa do Mar (Antigo Centro de Saúde)",
       "horarios": [
         {
           "desde": "10:00",
@@ -976,15 +1086,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.29795,
+      "lon": -8.70962
     },
     {
       "id": "2026-11-18-vigo",
       "fecha": "2026-11-18",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "CAMPUS VIGO - CUVI 3",
-      "ubicacion": "UM na entrada principal do edificio de Ciencias, ao carón da rotonda",
+      "lugar": "Campus Vigo - Cuvi 3",
+      "ubicacion": "Na entrada principal do edificio de Ciencias, ao carón da rotonda",
       "horarios": [
         {
           "desde": "09:30",
@@ -992,15 +1104,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-19-naron",
       "fecha": "2026-11-19",
       "area": "Ferrol",
       "concello": "Narón",
-      "lugar": "Bº DE XUBIA (NARON)",
-      "ubicacion": "UNIDADE MOBIL NA CARRETERA DE CASTILLA",
+      "lugar": "Bº de Xubia (Naron)",
+      "ubicacion": "Na Carretera de Castilla",
       "horarios": [
         {
           "desde": "15:30",
@@ -1008,15 +1122,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.53179,
+      "lon": -8.15655
     },
     {
       "id": "2026-11-19-sarria",
       "fecha": "2026-11-19",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Sarria",
-      "lugar": "SARRIA",
-      "ubicacion": "UNIDADE MÓBIL NA RUA DA LIBERDADE (Á ALTURA DA CAFETERÍA DON PEPE)",
+      "lugar": "Sarria",
+      "ubicacion": "Na Rua da Liberdade (á Altura da Cafetería Don Pepe)",
       "horarios": [
         {
           "desde": "10:00",
@@ -1028,15 +1144,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.77098,
+      "lon": -7.43349
     },
     {
       "id": "2026-11-19-allariz",
       "fecha": "2026-11-19",
       "area": "Ourense-Verín-O Barco",
       "concello": "Allariz",
-      "lugar": "ALLARIZ",
-      "ubicacion": "UNIDADE MOBIL NO  CAMPO DA BARREIRA",
+      "lugar": "Allariz",
+      "ubicacion": "No Campo da Barreira",
       "horarios": [
         {
           "desde": "09:45",
@@ -1048,15 +1166,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19306,
+      "lon": -7.8045
     },
     {
       "id": "2026-11-19-vilagarcia-de-arousa",
       "fecha": "2026-11-19",
       "area": "Pontevedra e O Salnés",
       "concello": "Vilagarcía de Arousa",
-      "lugar": "VILAGARCIA",
-      "ubicacion": "UNIDADE MÓBIL NO LATERAL DO AUDITORIO, ZONA CARGA/DESCARGA",
+      "lugar": "Vilagarcia",
+      "ubicacion": "No Lateral do Auditorio, Zona Carga/Descarga",
       "horarios": [
         {
           "desde": "10:00",
@@ -1064,15 +1184,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.59505,
+      "lon": -8.74305
     },
     {
       "id": "2026-11-19-vilagarcia-de-arousa-2",
       "fecha": "2026-11-19",
       "area": "Pontevedra e O Salnés",
       "concello": "Vilagarcía de Arousa",
-      "lugar": "CARRIL",
-      "ubicacion": "UNIDADE MÓBIL NO PEIRAO, PRETO DA RAMPA DE CARGA/DESCARGA",
+      "lugar": "Carril",
+      "ubicacion": "No Peirao, Preto da Rampa de Carga/Descarga",
       "horarios": [
         {
           "desde": "16:00",
@@ -1080,15 +1202,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.59505,
+      "lon": -8.74305
     },
     {
       "id": "2026-11-19-vilagarcia-de-arousa-3",
       "fecha": "2026-11-19",
       "area": "Pontevedra e O Salnés",
       "concello": "Vilagarcía de Arousa",
-      "lugar": "VILAXOAN",
-      "ubicacion": "UNIDADE MÓBIL NO PEIRAO",
+      "lugar": "Vilaxoan",
+      "ubicacion": "No Peirao",
       "horarios": [
         {
           "desde": "18:30",
@@ -1096,15 +1220,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.59505,
+      "lon": -8.74305
     },
     {
       "id": "2026-11-19-brion",
       "fecha": "2026-11-19",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Brión",
-      "lugar": "BRION",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO COLEXIO",
+      "lugar": "Brion",
+      "ubicacion": "Diante do Colexio",
       "horarios": [
         {
           "desde": "15:30",
@@ -1112,15 +1238,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.85484,
+      "lon": -8.74441
     },
     {
       "id": "2026-11-19-vigo",
       "fecha": "2026-11-19",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "CAMPUS VIGO - CUVI 3",
-      "ubicacion": "UM na entrada principal do edificio de Ciencias, ao carón da rotonda",
+      "lugar": "Campus Vigo - Cuvi 3",
+      "ubicacion": "Na entrada principal do edificio de Ciencias, ao carón da rotonda",
       "horarios": [
         {
           "desde": "09:30",
@@ -1128,15 +1256,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-20-a-laracha",
       "fecha": "2026-11-20",
       "area": "A Coruña e CEE",
       "concello": "A Laracha",
-      "lugar": "A LARACHA",
-      "ubicacion": "NA PRAZA DO CONCELLO",
+      "lugar": "A Laracha",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1148,15 +1278,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.24341,
+      "lon": -8.54981
     },
     {
       "id": "2026-11-20-sada",
       "fecha": "2026-11-20",
       "area": "A Coruña e CEE",
       "concello": "Sada",
-      "lugar": "SADA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA CASA DA XUVENTUDE",
+      "lugar": "Sada",
+      "ubicacion": "Diante da Casa da Xuventude",
       "horarios": [
         {
           "desde": "15:45",
@@ -1164,15 +1296,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34739,
+      "lon": -8.27709
     },
     {
       "id": "2026-11-20-vilalba",
       "fecha": "2026-11-20",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Vilalba",
-      "lugar": "VILALBA",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA PLÁCIDO PEÑA, 6-8 (DIANTE DE \"DON DINO\")",
+      "lugar": "Vilalba",
+      "ubicacion": "Na Rúa Plácido Peña, 6-8 (diante de \"Don Dino\")",
       "horarios": [
         {
           "desde": "10:00",
@@ -1184,15 +1318,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.32632,
+      "lon": -7.69467
     },
     {
       "id": "2026-11-20-xinzo-de-limia",
       "fecha": "2026-11-20",
       "area": "Ourense-Verín-O Barco",
       "concello": "Xinzo de Limia",
-      "lugar": "XINZO DE LIMIA",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO CONCELLO",
+      "lugar": "Xinzo de Limia",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1204,15 +1340,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.03573,
+      "lon": -7.73921
     },
     {
       "id": "2026-11-20-vilagarcia-de-arousa",
       "fecha": "2026-11-20",
       "area": "Pontevedra e O Salnés",
       "concello": "Vilagarcía de Arousa",
-      "lugar": "VILAGARCIA",
-      "ubicacion": "UNIDADE MÓBIL NO LATERAL DO AUDITORIO, ZONA CARGA/DESCARGA",
+      "lugar": "Vilagarcia",
+      "ubicacion": "No Lateral do Auditorio, Zona Carga/Descarga",
       "horarios": [
         {
           "desde": "10:00",
@@ -1224,15 +1362,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.59505,
+      "lon": -8.74305
     },
     {
       "id": "2026-11-20-boiro",
       "fecha": "2026-11-20",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Boiro",
-      "lugar": "BOIRO",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CONCELLO",
+      "lugar": "Boiro",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1244,15 +1384,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.66732,
+      "lon": -8.89409
     },
     {
       "id": "2026-11-20-mazaricos",
       "fecha": "2026-11-20",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Mazaricos",
-      "lugar": "A PICOTA (MAZARICOS)",
-      "ubicacion": "UNIDADE MÓBIL NO CAMPO DA FEIRA",
+      "lugar": "A Picota (Mazaricos)",
+      "ubicacion": "No Campo da Feira",
       "horarios": [
         {
           "desde": "16:00",
@@ -1260,15 +1402,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.92795,
+      "lon": -8.99414
     },
     {
       "id": "2026-11-20-gondomar",
       "fecha": "2026-11-20",
       "area": "Vigo",
       "concello": "Gondomar",
-      "lugar": "GONDOMAR",
-      "ubicacion": "UNIDADE MÓBIL NA ESTACIÓN DE AUTOBUSES (NA DÁRSENA Nº 6)",
+      "lugar": "Gondomar",
+      "ubicacion": "Na Estación de Autobuses (na Dársena Nº 6)",
       "horarios": [
         {
           "desde": "16:00",
@@ -1276,15 +1420,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.11123,
+      "lon": -8.75214
     },
     {
       "id": "2026-11-20-ponteareas",
       "fecha": "2026-11-20",
       "area": "Vigo",
       "concello": "Ponteareas",
-      "lugar": "PONTEAREAS",
-      "ubicacion": "UNIDADE MOVIL NA AVENIDA DE GALIZA (DETRAS DO CONCELLO)",
+      "lugar": "Ponteareas",
+      "ubicacion": "Na Avenida de Galiza (Detras do Concello)",
       "horarios": [
         {
           "desde": "10:00",
@@ -1296,15 +1442,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.18866,
+      "lon": -8.50545
     },
     {
       "id": "2026-11-21-sada",
       "fecha": "2026-11-21",
       "area": "A Coruña e CEE",
       "concello": "Sada",
-      "lugar": "SADA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA CASA DA XUVENTUDE",
+      "lugar": "Sada",
+      "ubicacion": "Diante da Casa da Xuventude",
       "horarios": [
         {
           "desde": "10:00",
@@ -1312,15 +1460,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34739,
+      "lon": -8.27709
     },
     {
       "id": "2026-11-21-xinzo-de-limia",
       "fecha": "2026-11-21",
       "area": "Ourense-Verín-O Barco",
       "concello": "Xinzo de Limia",
-      "lugar": "XINZO DE LIMIA",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO CONCELLO",
+      "lugar": "Xinzo de Limia",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1328,15 +1478,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.03573,
+      "lon": -7.73921
     },
     {
       "id": "2026-11-21-boiro",
       "fecha": "2026-11-21",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Boiro",
-      "lugar": "BOIRO",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CONCELLO",
+      "lugar": "Boiro",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1344,15 +1496,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.66732,
+      "lon": -8.89409
     },
     {
       "id": "2026-11-21-ordes",
       "fecha": "2026-11-21",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Ordes",
-      "lugar": "ORDES",
-      "ubicacion": "UNIDADE MÓBIL DETRÁS DO CONCELLO\n(ENTRE OS PARQUES MUNICIPAIS)",
+      "lugar": "Ordes",
+      "ubicacion": "Detrás do Concello (entre os Parques Municipais)",
       "horarios": [
         {
           "desde": "10:00",
@@ -1360,15 +1514,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.08528,
+      "lon": -8.40154
     },
     {
       "id": "2026-11-21-ponteareas",
       "fecha": "2026-11-21",
       "area": "Vigo",
       "concello": "Ponteareas",
-      "lugar": "PONTEAREAS",
-      "ubicacion": "UNIDADE MOVIL NA AVENIDA DE GALIZA (DETRAS DO CONCELLO)",
+      "lugar": "Ponteareas",
+      "ubicacion": "Na Avenida de Galiza (Detras do Concello)",
       "horarios": [
         {
           "desde": "10:00",
@@ -1376,15 +1532,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.18866,
+      "lon": -8.50545
     },
     {
       "id": "2026-11-23-a-coruna",
       "fecha": "2026-11-23",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "Bº LOS ROSALES (A CORUÑA)",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA ELÍPTICA\n( PARADA DE TAXIS DA RÚA MANUEL AZAÑA )",
+      "lugar": "Bº Los Rosales (a Coruña)",
+      "ubicacion": "Na Praza Elíptica ( Parada de Taxis da Rúa Manuel Azaña )",
       "horarios": [
         {
           "desde": "09:30",
@@ -1396,15 +1554,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-23-fene",
       "fecha": "2026-11-23",
       "area": "Ferrol",
       "concello": "Fene",
-      "lugar": "FENE",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO DE SAÚDE",
+      "lugar": "Fene",
+      "ubicacion": "Diante do Centro de Saúde",
       "horarios": [
         {
           "desde": "09:30",
@@ -1416,15 +1576,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.45539,
+      "lon": -8.16711
     },
     {
       "id": "2026-11-23-barreiros",
       "fecha": "2026-11-23",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Barreiros",
-      "lugar": "SAN COSME DE BARREIROS",
-      "ubicacion": "UNIDADE MÓBIL FRONTE AO CONCELLO",
+      "lugar": "San Cosme de Barreiros",
+      "ubicacion": "Fronte ao Concello",
       "horarios": [
         {
           "desde": "16:45",
@@ -1432,15 +1594,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.51417,
+      "lon": -7.25055
     },
     {
       "id": "2026-11-23-lugo",
       "fecha": "2026-11-23",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "RONDA DAS FONTIÑAS - LUGO",
-      "ubicacion": "UNIDADE MÓBIL NA RONDA DAS FONTIÑAS (nº 168)",
+      "lugar": "Ronda das Fontiñas - Lugo",
+      "ubicacion": "Na Ronda das Fontiñas (Nº 168)",
       "horarios": [
         {
           "desde": "09:30",
@@ -1448,15 +1612,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-23-ourense",
       "fecha": "2026-11-23",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "Bº RUA DO PASEO - OURENSE",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA DO PASEO, N.º 37",
+      "lugar": "Bº Rua do Paseo - Ourense",
+      "ubicacion": "Na Rúa do Paseo, n.º 37",
       "horarios": [
         {
           "desde": "15:30",
@@ -1464,15 +1630,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-23-ribadavia",
       "fecha": "2026-11-23",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ribadavia",
-      "lugar": "RIBADAVIA",
-      "ubicacion": "UNIDADE MOBIL DIANTE DA CASA DA CULTURA",
+      "lugar": "Ribadavia",
+      "ubicacion": "Diante da Casa da Cultura",
       "horarios": [
         {
           "desde": "10:00",
@@ -1480,15 +1648,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.28761,
+      "lon": -8.14268
     },
     {
       "id": "2026-11-23-vilanova-de-arousa",
       "fecha": "2026-11-23",
       "area": "Pontevedra e O Salnés",
       "concello": "Vilanova de Arousa",
-      "lugar": "VILANOVA DE AROUSA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Vilanova de Arousa",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1500,15 +1670,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.55303,
+      "lon": -8.79318
     },
     {
       "id": "2026-11-23-ames",
       "fecha": "2026-11-23",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Ames",
-      "lugar": "MILLADOIRO (AMES)",
-      "ubicacion": "UNIDADE MÓBIL A CARÓN DO NOVO CENTRO DE SAÚDE (TRAVESÍA DO PORTO)",
+      "lugar": "Milladoiro (Ames)",
+      "ubicacion": "A carón do Novo Centro de Saúde (Travesía do Porto)",
       "horarios": [
         {
           "desde": "09:30",
@@ -1520,15 +1692,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.89076,
+      "lon": -8.67224
     },
     {
       "id": "2026-11-23-carnota",
       "fecha": "2026-11-23",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Carnota",
-      "lugar": "CARNOTA",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Carnota",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:30",
@@ -1536,15 +1710,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.83792,
+      "lon": -9.07966
     },
     {
       "id": "2026-11-23-vigo",
       "fecha": "2026-11-23",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "Bº COIA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO CRISTO DA VICTORIA ( NA PARADA DO BUS ESCOLAR)",
+      "lugar": "Bº Coia",
+      "ubicacion": "Na Praza do Cristo da Victoria ( na Parada do Bus Escolar)",
       "horarios": [
         {
           "desde": "15:30",
@@ -1552,15 +1728,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-24-a-coruna",
       "fecha": "2026-11-24",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "CAMPUS A ZAPATEIRA",
-      "ubicacion": "UNIDADE MÓBIL NA PARADA DE BUS",
+      "lugar": "Campus a Zapateira",
+      "ubicacion": "Na Parada de Bus",
       "horarios": [
         {
           "desde": "09:30",
@@ -1568,15 +1746,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-24-coristanco",
       "fecha": "2026-11-24",
       "area": "A Coruña e CEE",
       "concello": "Coristanco",
-      "lugar": "CORISTANCO",
-      "ubicacion": "UNIDADE MÓBIL AO CARÓN DO CONCELLO",
+      "lugar": "Coristanco",
+      "ubicacion": "Ao carón do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -1584,15 +1764,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.16348,
+      "lon": -8.75815
     },
     {
       "id": "2026-11-24-ortigueira",
       "fecha": "2026-11-24",
       "area": "Ferrol",
       "concello": "Ortigueira",
-      "lugar": "ORTIGUEIRA",
-      "ubicacion": "UNIDADE MÓBIL NA EXPLANADA FRONTE EDIFICIO SERVICIOS SOCIAIS",
+      "lugar": "Ortigueira",
+      "ubicacion": "Na Explanada Fronte Edificio Servicios Sociais",
       "horarios": [
         {
           "desde": "16:00",
@@ -1600,15 +1782,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.65169,
+      "lon": -7.84005
     },
     {
       "id": "2026-11-24-lugo",
       "fecha": "2026-11-24",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "Bº PARQUE CASTIÑEIRO (LUGO)",
-      "ubicacion": "UNIDADE MÓBIL  FONDO DA PRAZA CASTIÑEIRO",
+      "lugar": "Bº Parque Castiñeiro (Lugo)",
+      "ubicacion": "Fondo da Praza Castiñeiro",
       "horarios": [
         {
           "desde": "09:30",
@@ -1616,15 +1800,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-24-palas-de-rei",
       "fecha": "2026-11-24",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Palas de Rei",
-      "lugar": "PALAS DE REI",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO CONCELLO",
+      "lugar": "Palas de Rei",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "19:00",
@@ -1632,15 +1818,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.89782,
+      "lon": -7.84081
     },
     {
       "id": "2026-11-24-rabade",
       "fecha": "2026-11-24",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Rábade",
-      "lugar": "RABADE",
-      "ubicacion": "UNIDADE MÓBIL NO CAMPO DA FEIRA",
+      "lugar": "Rabade",
+      "ubicacion": "No Campo da Feira",
       "horarios": [
         {
           "desde": "15:30",
@@ -1648,15 +1836,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.12469,
+      "lon": -7.62451
     },
     {
       "id": "2026-11-24-ourense",
       "fecha": "2026-11-24",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "CAMPUS OURENSE",
-      "ubicacion": "UNIDADE MÓBIL  DIANTE DO  \"EDIFICIO  FACULTADES\"\n(R/ Dr.Temes Fernández)",
+      "lugar": "Campus Ourense",
+      "ubicacion": "DIANTE DO \"EDIFICIO FACULTADES\" (R/ Dr.Temes Fernández)",
       "horarios": [
         {
           "desde": "09:30",
@@ -1668,15 +1858,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-24-sanxenxo",
       "fecha": "2026-11-24",
       "area": "Pontevedra e O Salnés",
       "concello": "Sanxenxo",
-      "lugar": "PORTONOVO",
-      "ubicacion": "UNIDADE MOBIL NAS INMEDIACIÓNS DA PRAZA DE ABASTOS",
+      "lugar": "Portonovo",
+      "ubicacion": "Nas Inmediacións da Praza de Abastos",
       "horarios": [
         {
           "desde": "10:00",
@@ -1688,15 +1880,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.42208,
+      "lon": -8.83534
     },
     {
       "id": "2026-11-24-santiago-de-compostela",
       "fecha": "2026-11-24",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "CAMPUS SANTIAGO - VIDA 1",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA CAFETERÍA DE BIOLOXÍA E MATEMÁTICAS",
+      "lugar": "Campus Santiago - Vida 1",
+      "ubicacion": "Diante da Cafetería de Bioloxía e Matemáticas",
       "horarios": [
         {
           "desde": "09:30",
@@ -1704,15 +1898,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-24-santiago-de-compostela-2",
       "fecha": "2026-11-24",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "CAMPUS NORTE-SANTIAGO",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA FACULTADE DE MEDICINA",
+      "lugar": "Campus Norte-Santiago",
+      "ubicacion": "Diante da Facultade de Medicina",
       "horarios": [
         {
           "desde": "09:30",
@@ -1724,15 +1920,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-24-redondela",
       "fecha": "2026-11-24",
       "area": "Vigo",
       "concello": "Redondela",
-      "lugar": "REDONDELA",
-      "ubicacion": "UNIDADE MÓVIL DIANTE DO CONCELLO",
+      "lugar": "Redondela",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -1740,15 +1938,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.27991,
+      "lon": -8.61634
     },
     {
       "id": "2026-11-24-salvaterra-de-mino",
       "fecha": "2026-11-24",
       "area": "Vigo",
       "concello": "Salvaterra de Miño",
-      "lugar": "SALVATERRA DO MIÑO",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO CONCELLO",
+      "lugar": "Salvaterra do Miño",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -1760,15 +1960,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.08267,
+      "lon": -8.49903
     },
     {
       "id": "2026-11-25-a-coruna",
       "fecha": "2026-11-25",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "CAMPUS DE ELVIÑA",
-      "ubicacion": "UNIDADE MÓBIL NA ROTONDA DE SOCIOLOXÍA",
+      "lugar": "Campus de Elviña",
+      "ubicacion": "Na Rotonda de Socioloxía",
       "horarios": [
         {
           "desde": "09:30",
@@ -1780,15 +1982,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-25-ferrol",
       "fecha": "2026-11-25",
       "area": "Ferrol",
       "concello": "Ferrol",
-      "lugar": "CAMPUS ESTEIRO",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA FACULTADE DE ENFERMARÍA E PODOLOXÍA",
+      "lugar": "Campus Esteiro",
+      "ubicacion": "Diante da Facultade de Enfermaría e Podoloxía",
       "horarios": [
         {
           "desde": "15:30",
@@ -1796,15 +2000,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.51131,
+      "lon": -8.26248
     },
     {
       "id": "2026-11-25-lugo",
       "fecha": "2026-11-25",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "Bº PRAZA MAIOR",
-      "ubicacion": "UNIDADE MOBIL NO FONDO DA PRAZA MAIOR",
+      "lugar": "Bº Praza Maior",
+      "ubicacion": "No Fondo da Praza Maior",
       "horarios": [
         {
           "desde": "09:30",
@@ -1812,15 +2018,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-25-lugo-2",
       "fecha": "2026-11-25",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "BIBLIOTECA INTERCENTROS",
-      "ubicacion": "DIANTE DA BIBLIOTECA CENTRAL\n      (NO APARCAMIENTO)",
+      "lugar": "Biblioteca Intercentros",
+      "ubicacion": "Diante da Biblioteca Central (no Aparcamiento)",
       "horarios": [
         {
           "desde": "15:30",
@@ -1828,15 +2036,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-25-ourense",
       "fecha": "2026-11-25",
       "area": "Ourense-Verín-O Barco",
       "concello": "Ourense",
-      "lugar": "Bº ESTACION",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA EULOXIO FRANQUEIRA esquina Rúa Xesús Pousa",
+      "lugar": "Bº Estacion",
+      "ubicacion": "NA RÚA EULOXIO FRANQUEIRA esquina Rúa Xesús Pousa",
       "horarios": [
         {
           "desde": "09:30",
@@ -1848,15 +2058,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": true
+      "provisional": true,
+      "lat": 42.34389,
+      "lon": -7.85718
     },
     {
       "id": "2026-11-25-pontevedra",
       "fecha": "2026-11-25",
       "area": "Pontevedra e O Salnés",
       "concello": "Pontevedra",
-      "lugar": "ZONA DA FERRARÍA",
-      "ubicacion": "UNIDADE MOBIL NA ALAMEDA DIANTE DO CAFETIN",
+      "lugar": "Zona da Ferraría",
+      "ubicacion": "Na Alameda diante do Cafetin",
       "horarios": [
         {
           "desde": "15:30",
@@ -1864,15 +2076,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.42806,
+      "lon": -8.60414
     },
     {
       "id": "2026-11-25-melide",
       "fecha": "2026-11-25",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Melide",
-      "lugar": "MELIDE",
-      "ubicacion": "UNIDADE MÓBIL NO PARQUE ROSALÍA DE CASTRO",
+      "lugar": "Melide",
+      "ubicacion": "No Parque Rosalía de Castro",
       "horarios": [
         {
           "desde": "16:15",
@@ -1880,15 +2094,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.93316,
+      "lon": -8.02768
     },
     {
       "id": "2026-11-25-santiago-de-compostela",
       "fecha": "2026-11-25",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "CAMPUS VIDA - SANTIAGO",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA FACULTADE DE DEREITO",
+      "lugar": "Campus Vida - Santiago",
+      "ubicacion": "Diante da Facultade de Dereito",
       "horarios": [
         {
           "desde": "09:30",
@@ -1900,15 +2116,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-25-vigo",
       "fecha": "2026-11-25",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "CUVI",
-      "ubicacion": "UNIDADE MOBIL NO APARCAMENTO DE ESTUDANTES DA ESCOLA DE ENXEÑERIA DE INSDUTRIAIS.",
+      "lugar": "Cuvi",
+      "ubicacion": "No Aparcamento de Estudantes da Escola de Enxeñeria de Insdutriais.",
       "horarios": [
         {
           "desde": "09:30",
@@ -1916,15 +2134,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-26-a-coruna",
       "fecha": "2026-11-26",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "CANTON - OBELISCO",
-      "ubicacion": "UNIDADE MÓBIL NA PARADA DE TAXIS DO OBELISCO",
+      "lugar": "Canton - Obelisco",
+      "ubicacion": "Na Parada de Taxis do Obelisco",
       "horarios": [
         {
           "desde": "15:30",
@@ -1932,15 +2152,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-26-a-capela",
       "fecha": "2026-11-26",
       "area": "Ferrol",
       "concello": "A Capela",
-      "lugar": "A CAPELA",
-      "ubicacion": "UNIDAD MÓBIL DIANTE DO CONCELLO",
+      "lugar": "A Capela",
+      "ubicacion": "Unidad Móbil diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -1948,15 +2170,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.44207,
+      "lon": -8.0434
     },
     {
       "id": "2026-11-26-lugo",
       "fecha": "2026-11-26",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Lugo",
-      "lugar": "Bº A MILAGROSA",
-      "ubicacion": "UNIDADE MÓBIL NA ENTRADA DO PARQUE A MILAGROSA(AVDA DA CORUÑA)",
+      "lugar": "Bº a Milagrosa",
+      "ubicacion": "Na Entrada do Parque a Milagrosa(Avda da Coruña)",
       "horarios": [
         {
           "desde": "09:30",
@@ -1964,15 +2188,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.99131,
+      "lon": -7.59083
     },
     {
       "id": "2026-11-26-mondonedo",
       "fecha": "2026-11-26",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Mondoñedo",
-      "lugar": "MONDOÑEDO",
-      "ubicacion": "UNIDADE MÓBIL DETRAS DA PRAZA DA CATEDRAL\n(NA BAIXADA DO SEMINARIO)",
+      "lugar": "Mondoñedo",
+      "ubicacion": "Detras da Praza da Catedral (na Baixada do Seminario)",
       "horarios": [
         {
           "desde": "16:15",
@@ -1980,15 +2206,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.44832,
+      "lon": -7.38087
     },
     {
       "id": "2026-11-26-o-barco-de-valdeorras",
       "fecha": "2026-11-26",
       "area": "Ourense-Verín-O Barco",
       "concello": "O Barco de Valdeorras",
-      "lugar": "O BARCO DE VALDEORRAS",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CONCELLO",
+      "lugar": "O Barco de Valdeorras",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:45",
@@ -2000,15 +2228,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.4301,
+      "lon": -6.9801
     },
     {
       "id": "2026-11-26-catoira",
       "fecha": "2026-11-26",
       "area": "Pontevedra e O Salnés",
       "concello": "Catoira",
-      "lugar": "CATOIRA",
-      "ubicacion": "UNIDADE MÓBIL NA ALAMEDA DO CONCELLO",
+      "lugar": "Catoira",
+      "ubicacion": "Na Alameda do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -2016,15 +2246,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.65832,
+      "lon": -8.70345
     },
     {
       "id": "2026-11-26-poio",
       "fecha": "2026-11-26",
       "area": "Pontevedra e O Salnés",
       "concello": "Poio",
-      "lugar": "CIFP CANTERÍA-POIO",
-      "ubicacion": "UNIDADE MOBIL NO RECINTO DA ESCOLA",
+      "lugar": "Cifp Cantería-Poio",
+      "ubicacion": "No Recinto da Escola",
       "horarios": [
         {
           "desde": "09:30",
@@ -2032,15 +2264,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.44195,
+      "lon": -8.69219
     },
     {
       "id": "2026-11-26-o-pino",
       "fecha": "2026-11-26",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "O Pino",
-      "lugar": "O PINO",
-      "ubicacion": "UNIDADE MÓBIL FRONTE AO CONCELLO (NO APARCADOIRO)",
+      "lugar": "O Pino",
+      "ubicacion": "Fronte ao Concello (no Aparcadoiro)",
       "horarios": [
         {
           "desde": "15:45",
@@ -2048,15 +2282,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.94549,
+      "lon": -8.35022
     },
     {
       "id": "2026-11-26-santiago-de-compostela",
       "fecha": "2026-11-26",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Santiago de Compostela",
-      "lugar": "AREA CENTRAL FONTIÑAS",
-      "ubicacion": "UNIDADE MÓBIL FRONTE Á CABINA DE INFORMACIÓN \n(ESCALEIRA DE ACCESO A ALCAMPO)",
+      "lugar": "Area Central Fontiñas",
+      "ubicacion": "Fronte á Cabina de Información (Escaleira de Acceso a Alcampo)",
       "horarios": [
         {
           "desde": "09:30",
@@ -2068,15 +2304,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.90646,
+      "lon": -8.5193
     },
     {
       "id": "2026-11-27-a-coruna",
       "fecha": "2026-11-27",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "MAPFRE",
-      "ubicacion": "UNIDADE MÓBIL NA ENTRADA PRINCIPAL",
+      "lugar": "Mapfre",
+      "ubicacion": "Na Entrada Principal",
       "horarios": [
         {
           "desde": "09:30",
@@ -2084,15 +2322,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-27-cee",
       "fecha": "2026-11-27",
       "area": "A Coruña e CEE",
       "concello": "Cee",
-      "lugar": "CEE",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CENTRO DE SAÚDE",
+      "lugar": "Cee",
+      "ubicacion": "Diante do Centro de Saúde",
       "horarios": [
         {
           "desde": "16:30",
@@ -2100,15 +2340,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.96031,
+      "lon": -9.19664
     },
     {
       "id": "2026-11-27-as-pontes-de-garcia-rodriguez",
       "fecha": "2026-11-27",
       "area": "Ferrol",
       "concello": "As Pontes de García Rodríguez",
-      "lugar": "AS PONTES",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CARMEN",
+      "lugar": "As Pontes",
+      "ubicacion": "Na Praza do Carmen",
       "horarios": [
         {
           "desde": "16:00",
@@ -2116,15 +2358,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.47029,
+      "lon": -7.87709
     },
     {
       "id": "2026-11-27-burela",
       "fecha": "2026-11-27",
       "area": "Lugo-A Mariña-Monforte",
       "concello": "Burela",
-      "lugar": "BURELA",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CONCELLO",
+      "lugar": "Burela",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:30",
@@ -2136,15 +2380,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.65895,
+      "lon": -7.36978
     },
     {
       "id": "2026-11-27-o-carballino",
       "fecha": "2026-11-27",
       "area": "Ourense-Verín-O Barco",
       "concello": "O Carballiño",
-      "lugar": "O CARBALLIÑO",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO EMIGRANTE (Pista Roxa)",
+      "lugar": "O Carballiño",
+      "ubicacion": "NA PRAZA DO EMIGRANTE (Pista Roxa)",
       "horarios": [
         {
           "desde": "10:00",
@@ -2156,15 +2402,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.44673,
+      "lon": -8.06515
     },
     {
       "id": "2026-11-27-a-estrada",
       "fecha": "2026-11-27",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "A Estrada",
-      "lugar": "A ESTRADA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO CONCELLO",
+      "lugar": "A Estrada",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -2176,15 +2424,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.68095,
+      "lon": -8.4358
     },
     {
       "id": "2026-11-27-padron",
       "fecha": "2026-11-27",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Padrón",
-      "lugar": "PADRON",
-      "ubicacion": "UNIDADE MÓBIL DIANTE \nDA PRAZA DE ABASTOS \n(AO CARÓN DO PASEO DO ESPOLÓN)",
+      "lugar": "Padron",
+      "ubicacion": "Diante da Praza de Abastos (ao carón do Paseo do Espolón)",
       "horarios": [
         {
           "desde": "15:45",
@@ -2192,15 +2442,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.75977,
+      "lon": -8.62364
     },
     {
       "id": "2026-11-27-rianxo",
       "fecha": "2026-11-27",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Rianxo",
-      "lugar": "RIANXO",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA CASTELAO",
+      "lugar": "Rianxo",
+      "ubicacion": "Na Praza Castelao",
       "horarios": [
         {
           "desde": "10:00",
@@ -2212,15 +2464,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.69093,
+      "lon": -8.7912
     },
     {
       "id": "2026-11-27-tui",
       "fecha": "2026-11-27",
       "area": "Vigo",
       "concello": "Tui",
-      "lugar": "TUI",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA ALCALDE CASAL ABOY (AO CARON DO CENTRO DE SAUDE)",
+      "lugar": "Tui",
+      "ubicacion": "Na Rúa Alcalde Casal Aboy (ao Caron do Centro de Saude)",
       "horarios": [
         {
           "desde": "10:00",
@@ -2232,15 +2486,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.06694,
+      "lon": -8.66376
     },
     {
       "id": "2026-11-27-vigo",
       "fecha": "2026-11-27",
       "area": "Vigo",
       "concello": "Vigo",
-      "lugar": "CABRAL (VIGO)",
-      "ubicacion": "UNIDADE MOBIL DIANTE DO\" MINIMARKET 24H\" \n(Avda. RAMON NIETO Nº 412)",
+      "lugar": "Cabral (Vigo)",
+      "ubicacion": "Diante do\" Minimarket 24H\" (Avda. Ramon Nieto Nº 412)",
       "horarios": [
         {
           "desde": "15:30",
@@ -2248,14 +2504,16 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.19864,
+      "lon": -8.72796
     },
     {
       "id": "2026-11-28-a-coruna",
       "fecha": "2026-11-28",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "Bº OS MALLOS",
+      "lugar": "Bº os Mallos",
       "ubicacion": "DIANTE DO ANTIGUO AMBULATORIO ( Roda de Outeiro 144)",
       "horarios": [
         {
@@ -2264,15 +2522,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-28-a-estrada",
       "fecha": "2026-11-28",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "A Estrada",
-      "lugar": "A ESTRADA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DO CONCELLO",
+      "lugar": "A Estrada",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -2280,15 +2540,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.68095,
+      "lon": -8.4358
     },
     {
       "id": "2026-11-28-padron",
       "fecha": "2026-11-28",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Padrón",
-      "lugar": "PADRON",
-      "ubicacion": "UNIDADE MÓBIL DIANTE \nDA PRAZA DE ABASTOS \n( AO CARÓN DO PASEO DO ESPOLÓN )",
+      "lugar": "Padron",
+      "ubicacion": "Diante da Praza de Abastos ( ao carón do Paseo do Espolón )",
       "horarios": [
         {
           "desde": "10:00",
@@ -2296,15 +2558,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.75977,
+      "lon": -8.62364
     },
     {
       "id": "2026-11-28-tui",
       "fecha": "2026-11-28",
       "area": "Vigo",
       "concello": "Tui",
-      "lugar": "TUI",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA ALCALDE CASAL ABOY (AO CARON DO CENTRO DE SAUDE)",
+      "lugar": "Tui",
+      "ubicacion": "Na Rúa Alcalde Casal Aboy (ao Caron do Centro de Saude)",
       "horarios": [
         {
           "desde": "10:00",
@@ -2312,15 +2576,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.06694,
+      "lon": -8.66376
     },
     {
       "id": "2026-11-30-a-coruna",
       "fecha": "2026-11-30",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "Bº MONTE ALTO",
-      "ubicacion": "UNIDADE MÓBIL NA RÚA DA TORRE (DIANTE DA BIBLIOTECA)",
+      "lugar": "Bº Monte Alto",
+      "ubicacion": "Na Rúa da Torre (diante da Biblioteca)",
       "horarios": [
         {
           "desde": "09:30",
@@ -2332,15 +2598,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-11-30-cambre",
       "fecha": "2026-11-30",
       "area": "A Coruña e CEE",
       "concello": "Cambre",
-      "lugar": "O TEMPLE",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA PARADA DE TAXIS - RÚA TAPIA",
+      "lugar": "O Temple",
+      "ubicacion": "Diante da Parada de Taxis - Rúa Tapia",
       "horarios": [
         {
           "desde": "15:30",
@@ -2348,15 +2616,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.28158,
+      "lon": -8.33383
     },
     {
       "id": "2026-11-30-naron",
       "fecha": "2026-11-30",
       "area": "Ferrol",
       "concello": "Narón",
-      "lugar": "Bº A GANDARA (NARON)",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DA GANDARA\n(Rua Pintor Sotomaior)",
+      "lugar": "Bº a Gandara (Naron)",
+      "ubicacion": "NA PRAZA DA GANDARA (Rua Pintor Sotomaior)",
       "horarios": [
         {
           "desde": "09:30",
@@ -2368,15 +2638,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.53179,
+      "lon": -8.15655
     },
     {
       "id": "2026-11-30-a-peroxa",
       "fecha": "2026-11-30",
       "area": "Ourense-Verín-O Barco",
       "concello": "A Peroxa",
-      "lugar": "A PEROXA",
-      "ubicacion": "UNIDADE MOBIL XUNTO AO  ANTIGO LOCAL DA CRUZ VERMELLA",
+      "lugar": "A Peroxa",
+      "ubicacion": "Xunto ao Antigo Local da Cruz Vermella",
       "horarios": [
         {
           "desde": "10:00",
@@ -2384,15 +2656,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": true
+      "provisional": true,
+      "lat": 42.45165,
+      "lon": -7.80829
     },
     {
       "id": "2026-11-30-coles",
       "fecha": "2026-11-30",
       "area": "Ourense-Verín-O Barco",
       "concello": "Coles",
-      "lugar": "COLES",
-      "ubicacion": "VILARCHAO -\nUNIDADE MOBIL  AO CARON DO CENTRO DE SAÚDE",
+      "lugar": "Coles",
+      "ubicacion": "Vilarchao - Unidade Mobil ao Caron do Centro de Saúde",
       "horarios": [
         {
           "desde": "12:30",
@@ -2400,14 +2674,16 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": true
+      "provisional": true,
+      "lat": 42.40748,
+      "lon": -7.83975
     },
     {
       "id": "2026-11-30-maceda",
       "fecha": "2026-11-30",
       "area": "Ourense-Verín-O Barco",
       "concello": "Maceda",
-      "lugar": "MACEDA",
+      "lugar": "Maceda",
       "ubicacion": "Rua Vicente del Bosque (ao carón do Concello)",
       "horarios": [
         {
@@ -2416,15 +2692,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": true
+      "provisional": true,
+      "lat": 42.25554,
+      "lon": -7.60532
     },
     {
       "id": "2026-11-30-rois",
       "fecha": "2026-11-30",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Rois",
-      "lugar": "ROIS",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DO CONCELLO",
+      "lugar": "Rois",
+      "ubicacion": "Diante do Concello",
       "horarios": [
         {
           "desde": "16:00",
@@ -2432,15 +2710,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.78858,
+      "lon": -8.72019
     },
     {
       "id": "2026-11-30-salceda-de-caselas",
       "fecha": "2026-11-30",
       "area": "Vigo",
       "concello": "Salceda de Caselas",
-      "lugar": "SALCEDA DE CASELAS",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA DO CONCELLO",
+      "lugar": "Salceda de Caselas",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -2452,15 +2732,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.10684,
+      "lon": -8.56206
     },
     {
       "id": "2026-12-01-arteixo",
       "fecha": "2026-12-01",
       "area": "A Coruña e CEE",
       "concello": "Arteixo",
-      "lugar": "PASTORIZA (ARTEIXO)",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA FARMACIA\nTravesía de Pastoriza 54",
+      "lugar": "Pastoriza (Arteixo)",
+      "ubicacion": "DIANTE DA FARMACIA Travesía de Pastoriza 54",
       "horarios": [
         {
           "desde": "16:00",
@@ -2468,15 +2750,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.30458,
+      "lon": -8.50791
     },
     {
       "id": "2026-12-01-naron",
       "fecha": "2026-12-01",
       "area": "Ferrol",
       "concello": "Narón",
-      "lugar": "NARON",
-      "ubicacion": "UNIDADE MÓBIL AO CARÓN DO NOVO CENTRO DE SAÚDE",
+      "lugar": "Naron",
+      "ubicacion": "Ao carón do Novo Centro de Saúde",
       "horarios": [
         {
           "desde": "09:30",
@@ -2488,15 +2772,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.53179,
+      "lon": -8.15655
     },
     {
       "id": "2026-12-02-a-coruna",
       "fecha": "2026-12-02",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "COMMCENTER",
-      "ubicacion": "UNIDADE MÓBIL DIANTE DA EMPRESA",
+      "lugar": "Commcenter",
+      "ubicacion": "Diante da Empresa",
       "horarios": [
         {
           "desde": "09:30",
@@ -2504,15 +2790,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-12-02-betanzos",
       "fecha": "2026-12-02",
       "area": "A Coruña e CEE",
       "concello": "Betanzos",
-      "lugar": "BETANZOS",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA IRMÁNS GARCÍA NAVEIRA",
+      "lugar": "Betanzos",
+      "ubicacion": "Na Praza Irmáns García Naveira",
       "horarios": [
         {
           "desde": "10:00",
@@ -2524,15 +2812,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.27574,
+      "lon": -8.23264
     },
     {
       "id": "2026-12-02-carral",
       "fecha": "2026-12-02",
       "area": "A Coruña e CEE",
       "concello": "Carral",
-      "lugar": "CARRAL",
-      "ubicacion": "UNIDADE MÓBIL A CARÓN  DO CAMPO DA FEIRA",
+      "lugar": "Carral",
+      "ubicacion": "A carón do Campo da Feira",
       "horarios": [
         {
           "desde": "16:00",
@@ -2540,15 +2830,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.20728,
+      "lon": -8.37584
     },
     {
       "id": "2026-12-02-culleredo",
       "fecha": "2026-12-02",
       "area": "A Coruña e CEE",
       "concello": "Culleredo",
-      "lugar": "O BURGO (CULLEREDO)",
-      "ubicacion": "UNIDADE MÓBIL NA PRAZA EUROPA",
+      "lugar": "O Burgo (Culleredo)",
+      "ubicacion": "Na Praza Europa",
       "horarios": [
         {
           "desde": "11:00",
@@ -2560,14 +2852,16 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.27788,
+      "lon": -8.41122
     },
     {
       "id": "2026-12-02-silleda",
       "fecha": "2026-12-02",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Silleda",
-      "lugar": "SILLEDA",
+      "lugar": "Silleda",
       "ubicacion": "Rúa Progreso, 42 (ao carón do novo Concello)",
       "horarios": [
         {
@@ -2580,15 +2874,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.68736,
+      "lon": -8.26979
     },
     {
       "id": "2026-12-03-a-coruna",
       "fecha": "2026-12-03",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "CANTON - OBELISCO",
-      "ubicacion": "UNIDADE MÓBIL NO OBELISCO",
+      "lugar": "Canton - Obelisco",
+      "ubicacion": "No Obelisco",
       "horarios": [
         {
           "desde": "15:30",
@@ -2596,15 +2892,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-12-03-a-coruna-2",
       "fecha": "2026-12-03",
       "area": "A Coruña e CEE",
       "concello": "A Coruña",
-      "lugar": "Bº GAITEIRA/OS CASTROS (A CORUÑA)",
-      "ubicacion": "Unidade móbil a carón da parada de taxis de A Gaiteira",
+      "lugar": "Bº Gaiteira/os Castros (a Coruña)",
+      "ubicacion": "A carón da parada de taxis de A Gaiteira",
       "horarios": [
         {
           "desde": "15:30",
@@ -2612,15 +2910,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.34546,
+      "lon": -8.41385
     },
     {
       "id": "2026-12-03-cedeira",
       "fecha": "2026-12-03",
       "area": "Ferrol",
       "concello": "Cedeira",
-      "lugar": "CEDEIRA",
-      "ubicacion": "UNIDADE MOBIL NA PRAZA DE GALICIA\n(PARADA DO BUS)",
+      "lugar": "Cedeira",
+      "ubicacion": "Na Praza de Galicia (Parada do Bus)",
       "horarios": [
         {
           "desde": "10:00",
@@ -2632,15 +2932,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.67685,
+      "lon": -8.014
     },
     {
       "id": "2026-12-04-carballo",
       "fecha": "2026-12-04",
       "area": "A Coruña e CEE",
       "concello": "Carballo",
-      "lugar": "CARBALLO",
-      "ubicacion": "UNIDADE MOBIL na Praza do Concello",
+      "lugar": "Carballo",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -2652,26 +2954,30 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.20862,
+      "lon": -8.66682
     },
     {
       "id": "2026-12-04-culleredo",
       "fecha": "2026-12-04",
       "area": "A Coruña e CEE",
       "concello": "Culleredo",
-      "lugar": "VILABOA",
-      "ubicacion": "UNIDADE MÓBIL NA PARADA DO BUS (FRONTE A IGREXA)",
+      "lugar": "Vilaboa",
+      "ubicacion": "Na Parada do Bus (Fronte a Igrexa)",
       "horarios": [],
       "horarioPorDeterminar": true,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.27788,
+      "lon": -8.41122
     },
     {
       "id": "2026-12-04-mino",
       "fecha": "2026-12-04",
       "area": "A Coruña e CEE",
       "concello": "Miño",
-      "lugar": "MIÑO",
-      "ubicacion": "UNIDADE MÓBIL NA RUA MERCADO S/N\n(Diante da Policia Local)",
+      "lugar": "Miño",
+      "ubicacion": "NA RUA MERCADO S/N (Diante da Policia Local)",
       "horarios": [
         {
           "desde": "16:00",
@@ -2679,15 +2985,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.35787,
+      "lon": -8.17926
     },
     {
       "id": "2026-12-04-outes",
       "fecha": "2026-12-04",
       "area": "Santiago de Compostela e A Barbanza",
       "concello": "Outes",
-      "lugar": "SERRA DE OUTES",
-      "ubicacion": "DIANTE DO CENTRO DE SAÚDE",
+      "lugar": "Serra de Outes",
+      "ubicacion": "Diante do Centro de Saúde",
       "horarios": [
         {
           "desde": "16:00",
@@ -2695,15 +3003,17 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 42.84557,
+      "lon": -8.91408
     },
     {
       "id": "2026-12-05-carballo",
       "fecha": "2026-12-05",
       "area": "A Coruña e CEE",
       "concello": "Carballo",
-      "lugar": "CARBALLO",
-      "ubicacion": "UNIDADE MOBIL na Praza do Concello",
+      "lugar": "Carballo",
+      "ubicacion": "Na Praza do Concello",
       "horarios": [
         {
           "desde": "10:00",
@@ -2711,7 +3021,9 @@
         }
       ],
       "horarioPorDeterminar": false,
-      "provisional": false
+      "provisional": false,
+      "lat": 43.20862,
+      "lon": -8.66682
     }
   ]
 }
